@@ -1,0 +1,11 @@
+﻿Topic,Subtopic,Question,Difficulty
+Python,Variables & Data Types,What are variables and common Python data types?,Easy
+Python,Lists,"How do you add, remove, and access elements in a list?",Easy
+Python,Dictionaries,How do you store and retrieve key-value pairs?,Easy
+Python,Functions,What is a function and why is it useful?,Easy
+Python,Exception Handling,"How do try, except, and finally work?",Medium
+Python,OOP,"What are class, object, inheritance, and encapsulation?",Medium
+Python,File Handling,How do you read and write a text file in Python?,Medium
+Python,APIs,How would you call a REST API from Python?,Medium
+Python,Async Programming,What problem does async/await solve?,Hard
+Python,Project Practice,Build a small CLI task manager using Python.,Medium

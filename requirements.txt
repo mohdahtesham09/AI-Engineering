@@ -1,0 +1,14 @@
+langchain
+langchain-openai
+dotenv
+langchain-google-genai
+langchain_ollama
+langchain_groq
+langchain-community
+langgraph
+sqlalchemy
+psycopg2-binary
+pypdf
+beautifulsoup4 
+langchain-text-splitters 
+langchain-chroma
