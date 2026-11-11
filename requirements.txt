@@ -12,3 +12,6 @@ pypdf
 beautifulsoup4 
 langchain-text-splitters 
 langchain-chroma
+pydantic 
+sentence-transformers
+faiss-cpu
